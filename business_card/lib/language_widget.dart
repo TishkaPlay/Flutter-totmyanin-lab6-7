@@ -21,7 +21,7 @@ class LanguageWidget extends StatelessWidget {
           ),
           const SizedBox(width: 12),
           Text(
-            'Любимый язык: $language',
+            'Любимый(ые) язык(и): $language',
             style: const TextStyle(
               fontSize: 20,
               color: Colors.white,
