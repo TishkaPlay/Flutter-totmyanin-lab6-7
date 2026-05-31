@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  audioplayers: ^6.7.0
 
 dev_dependencies:
   flutter_test:
@@ -22,3 +23,4 @@ flutter:
     - assets/images/cherry.png
     - assets/images/lemon.png
     - assets/images/seven.png
+    - assets/sounds/
